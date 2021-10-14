@@ -1,19 +1,55 @@
-Сергей Машин
-https://github.com/vanilla64/dot-dot-test-task
-Не понравился
+* TODO Кирилл Авдеев
+https://github.com/Assendro/t-log
+Некоторые детали не успел доделать в срок, задание оказалось сложнее, чем на первый взгляд, могу доделать завтра или к пн
 
 
-Кирилл Бойченко
-https://github.com/KirBoy/dot-dot
-При выборе ломаются селекты. Начинают работать неправильно.
-Курсоры все перепутаны. Не показал длинный вариант в селекте
-Поотваливались отступы на мобиле. Блок предрасчета вообще улетел под экран
-Краснов: тоже сомнительный
-40-45
+* TODO Icelandik Spar
+https://github.com/Icelandik-Spar/Test-task
+404
 
-Андрей Архипов
-https://arximed-a.github.io/dot-dot/
-https://github.com/Arximed-A/dot-dot
-Частично кривовато. У полей разные шрифты.
-На мобиле пропал блок с калькулятором
-Мутный. Код не понравился краснову. Много кода с других проектов. Не почистил.
+* TODO Игорь Скороходов
+https://github.com/igor-skorokhodov/logistica2
+Не смогли запустить 
+
+
+* DONE Никита Лукашев
+https://github.com/FierceGrandpa/test_11_10_2021
+90-100
+
+* DONE Vazgen Ayvazyan
+https://github.com/Vazgen1991/test-dot
+Так се визуал. Код ок. Сделал на вьюхе
+45-70к
+
+* DONE Павел Коляда
+https://gitlab.com/public.pavel/ftl
+Знакомый. ОК 
+
+
+
+Исмаил Абазов
+https://github.com/ismabazoff/test-mobile
+40-50
+
+Егор Трунов vue
+https://github.com/EgorTrunov/dot-dot__test
+
+Тамара Владимирская
+https://github.com/vladimirskayatamara/Tochka-tochka
+
+Сергей Емельянов
+https://github.com/seml404/FTL-page-Vue
+50к
+
+Анастасия Савельева
+Прошу прощения за задержу, заболела, в сроки не смогла реализовать некоторые элементы дизайна (градиент в select/input, появление блока c температурным режимом). Вот то, что есть:
+https://github.com/UHave2goDigitalKID/test_tck-tck
+
+
+Павел Коляда
+Фронт в 1300
+8 977 482 35 59
+
+Валерия Ланцова
+Дизайнер 14 00
+@Piterskaya_Princessa
