@@ -37,10 +37,17 @@ https://github.com/seml404/FTL-page-Vue
 50к
 
 ** НЕ берем
-* DONE Никита Лукашев
+Никита Лукашев
 https://github.com/FierceGrandpa/test_11_10_2021
 90-100 на бэк
 
+
+Сергей Ерофеев
+https://github.com/Polnelol/tochkatochka ссылка на репозиторий
+
+
+Андрей Игловский
+https://github.com/Shk-dev/testFTL
 
 ** Подумаем
 
@@ -54,14 +61,6 @@ https://github.com/UHave2goDigitalKID/test_tck-tck
 https://github.com/EgorTrunov/dot-dot__test
 Можно пообщаться
 
-
-** Не смотрели
-Владислав Рыбин
-https://github.com/lqewo/point-to-point
-
-Андрей Игловский
-https://github.com/Shk-dev/testFTL
-
 Герман Сахно
 https://github.com/HermanQuaint/TSL
 деплой: https://trusting-shirley-d6f313.netlify.app/
@@ -69,6 +68,9 @@ https://github.com/HermanQuaint/TSL
 Илья Корень
 https://github.com/IlyaKorn/DotDot
 
-Сергей Ерофеев
-https://github.com/Polnelol/tochkatochka ссылка на репозиторий
-https://polnelol.github.io/tochkatochka/dist/ ссылка на gh page
+Владислав Рыбин
+https://github.com/lqewo/point-to-point
+
+** Не смотрели
+Глеб Лузик
+https://github.com/gleb5783/test-dot-dot
