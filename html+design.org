@@ -17,7 +17,7 @@ https://github.com/FierceGrandpa/test_11_10_2021
 90-100
 
 * DONE Vazgen Ayvazyan
-https://github.com/Vazgen1991/test-dot
+
 Так се визуал. Код ок. Сделал на вьюхе
 45-70к
 
