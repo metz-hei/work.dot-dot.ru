@@ -1,0 +1,33 @@
+"subscribe": true,
+  "person": {
+    "id": 1234,
+    "inn": "7704451838",
+    "companyName": "Точка-Точка",
+    "organizationType": "ООО",
+    "number": "1111",
+    "series": "111111",
+    "contactName": "Иванов Иван Иванович",
+    "phone": "71112222222",
+    "email": "test@example.com",
+    "profileBased": true
+  },
+  "organization": {
+    "id": 145,
+    "vat": false,
+    "kpp": "504701001",
+    "rs": "40802 81000 03600 01267",
+    "bik": "044525787",
+    "ceo": "Тестовый тест тест",
+    "address": "г Москва, Космонавта Волкова 6А",
+    "legalAddress": "г Москва, Рязанский проспект д 16",
+    "verifiedCode": "verified",
+
+    companyName
+    organizationType
+    vat
+    bik
+    ceo
+    address
+    legalAddress
+
+
