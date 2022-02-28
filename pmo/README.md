@@ -5,7 +5,9 @@
 
 [Роадмап и приоритизация задач](roadmap.md)
 
-[Definition of Ready](dor.md)
+[Definition of Ready](dor.md) 
+
+[Ревью требований](review.md) мб в ДОР?
 
 [Планирование](planning.md)
 
@@ -17,7 +19,7 @@
 
 [Принципы](principles.md)
 
-[Ревью требований](review.md)
+
 
 ## Спринт
 Груминг и планирование = Пятница
