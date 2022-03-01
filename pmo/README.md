@@ -1,5 +1,5 @@
 
-[Поиск гипотез](searchHypotheseis.md)
+[Поиск гипотез](searchHypothesis.md)
 
 [Фиксация гипотез](writeHypothesis.md)
 
